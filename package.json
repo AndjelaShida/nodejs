@@ -1,0 +1,14 @@
+{
+  "name": "costumers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^11.0.3"
+  }
+}
